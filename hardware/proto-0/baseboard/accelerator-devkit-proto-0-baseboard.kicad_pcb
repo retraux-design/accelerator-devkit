@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 33)
+    (drawings 34)
     (tracks 3158)
     (modules 175)
     (nets 346)
@@ -19429,6 +19429,9 @@
     )
   )
 
+  (gr_text "TODO: GND stitch vias" (at 68.275 14.775) (layer "F.Cu") (tstamp e47c5abb-f589-4c91-a909-37228e0c1124)
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
   (gr_text "TODO: match ddr" (at 68.25 13.125) (layer "F.Cu") (tstamp 41ea2e18-6700-47f8-92b4-0daca024233f)
     (effects (font (size 1 1) (thickness 0.2)))
   )
