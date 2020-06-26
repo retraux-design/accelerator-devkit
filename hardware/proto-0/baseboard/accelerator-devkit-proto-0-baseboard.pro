@@ -1,4 +1,4 @@
-update=6/25/2020 11:15:07 PM
+update=6/25/2020 11:37:44 PM
 version=1
 last_client=kicad
 [general]
@@ -42,6 +42,15 @@ version=1
 version=1
 [SchematicFrame]
 version=1
+[sheetnames]
+1=68afd15f-2edb-4010-ab7e-8e2f5358270d:
+2=cff1d039-7316-4f26-bee2-2abf5e357325:Power
+3=d750dbfe-25cb-4657-ae33-613f4e77de41:USB-I/O
+4=5486a37f-78d9-4bc1-949b-5cd6991474d4:FPGA-Config
+5=60f65c90-53f8-4b4f-8cfb-d5447aa1c6b3:SDRAM
+6=68d7eb73-c832-4e03-ae86-4586210b2a32:FPGA-IO
+7=07a26876-5a99-476c-b8a2-c259b2a4e4ae:HDMI-IO
+8=fc7ed726-8436-40a3-b140-f25d1e6847bc:Display-IO
 [ModEditFrame]
 version=1
 [pcbnew]
@@ -467,12 +476,3 @@ uViaDrill=0.1
 dPairWidth=0.1016
 dPairGap=0.127
 dPairViaGap=0.25
-[sheetnames]
-1=68afd15f-2edb-4010-ab7e-8e2f5358270d:
-2=cff1d039-7316-4f26-bee2-2abf5e357325:Power
-3=d750dbfe-25cb-4657-ae33-613f4e77de41:USB-I/O
-4=5486a37f-78d9-4bc1-949b-5cd6991474d4:FPGA-Config
-5=60f65c90-53f8-4b4f-8cfb-d5447aa1c6b3:SDRAM
-6=68d7eb73-c832-4e03-ae86-4586210b2a32:FPGA-IO
-7=07a26876-5a99-476c-b8a2-c259b2a4e4ae:HDMI-IO
-8=fc7ed726-8436-40a3-b140-f25d1e6847bc:Display-IO
