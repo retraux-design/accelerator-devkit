@@ -1,6 +1,6 @@
 (kicad_sch (version 20200512) (host eeschema "(5.99.0-1839-gb83d64fc0)")
 
-  (page 1 8)
+  (page 3 8)
 
   (paper "USLetter")
 
@@ -1178,6 +1178,7 @@
   (bus_alias "FTDI_FIFO" (members "~FTDI_FIFO_CS" "FTDI_FIFO_A0" "~FTDI_FIFO_RD" "~FTDI_FIFO_WR" "FTDI_FIFO_DATA0" "FTDI_FIFO_DATA1" "FTDI_FIFO_DATA2" "FTDI_FIFO_DATA3" "FTDI_FIFO_DATA4" "FTDI_FIFO_DATA5" "FTDI_FIFO_DATA6" "FTDI_FIFO_DATA7"))
   (bus_alias "JTAG" (members "JTAG_TCK" "JTAG_TDI" "JTAG_TDO" "JTAG_TMS" "~FPGA_INIT" "~FPGA_PROGRAM" "FPGA_DONE"))
   (bus_alias "FTDI_SPI" (members "FTDI_SPI_SCLK" "FTDI_SPI_MOSI" "FTDI_SPI_MISO" "FTDI_SPI_CS"))
+
   (junction (at 19.05 99.06))
   (junction (at 19.05 106.68))
   (junction (at 24.13 86.36))
