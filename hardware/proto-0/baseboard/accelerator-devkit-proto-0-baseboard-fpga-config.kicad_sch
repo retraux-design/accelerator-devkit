@@ -1,6 +1,6 @@
 (kicad_sch (version 20200512) (host eeschema "(5.99.0-1839-gb83d64fc0)")
 
-  (page 4 8)
+  (page 1 8)
 
   (paper "USLetter")
 
@@ -2757,7 +2757,6 @@
       )
     )
   )
-
 
   (junction (at 119.38 161.29))
   (junction (at 125.73 146.05))

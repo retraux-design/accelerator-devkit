@@ -1,6 +1,6 @@
 (kicad_sch (version 20200512) (host eeschema "(5.99.0-1839-gb83d64fc0)")
 
-  (page 6 8)
+  (page 1 8)
 
   (paper "USLetter")
 
@@ -20,7 +20,7 @@
       (property "Footprint" "" (id 2) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "~" (id 3) (at 0 0 0)
+      (property "Datasheet" "" (id 3) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_keywords" "connector" (id 4) (at 0 0 0)
@@ -5907,16 +5907,16 @@
   (junction (at 203.2 105.41))
   (junction (at 203.2 119.38))
 
-  (no_connect (at 142.24 17.78))
-  (no_connect (at 173.99 115.57))
   (no_connect (at 173.99 123.19))
-  (no_connect (at 113.03 161.29))
+  (no_connect (at 142.24 17.78))
   (no_connect (at 173.99 118.11))
   (no_connect (at 173.99 110.49))
+  (no_connect (at 173.99 115.57))
+  (no_connect (at 172.72 161.29))
+  (no_connect (at 113.03 161.29))
+  (no_connect (at 106.68 179.07))
   (no_connect (at 142.24 22.86))
   (no_connect (at 106.68 173.99))
-  (no_connect (at 172.72 161.29))
-  (no_connect (at 106.68 179.07))
 
   (wire (pts (xy 19.05 22.86) (xy 40.64 22.86))
     (stroke (width 0) (type solid) (color 0 0 0 0))
