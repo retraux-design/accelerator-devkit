@@ -1,6 +1,6 @@
 (kicad_sch (version 20200512) (host eeschema "(5.99.0-1839-gb83d64fc0)")
 
-  (page 8 8)
+  (page 1 8)
 
   (paper "USLetter")
 
@@ -20,7 +20,7 @@
       (property "Footprint" "" (id 2) (at 5.08 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "~" (id 3) (at 5.08 0 0)
+      (property "Datasheet" "" (id 3) (at 5.08 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_keywords" "test point tp" (id 4) (at 0 0 0)
@@ -1873,13 +1873,13 @@
   (junction (at 189.23 130.81))
 
   (no_connect (at 168.91 60.96))
-  (no_connect (at 168.91 45.72))
-  (no_connect (at 168.91 40.64))
   (no_connect (at 168.91 63.5))
-  (no_connect (at 168.91 53.34))
+  (no_connect (at 168.91 50.8))
   (no_connect (at 168.91 43.18))
   (no_connect (at 168.91 48.26))
-  (no_connect (at 168.91 50.8))
+  (no_connect (at 168.91 40.64))
+  (no_connect (at 168.91 45.72))
+  (no_connect (at 168.91 53.34))
 
   (wire (pts (xy 17.78 57.15) (xy 40.64 57.15))
     (stroke (width 0) (type solid) (color 0 0 0 0))

@@ -1,4 +1,4 @@
-update=6/27/2020 7:16:59 AM
+update=6/28/2020 2:55:35 PM
 version=1
 last_client=kicad
 [general]
@@ -45,7 +45,7 @@ version=1
 [ModEditFrame]
 version=1
 [sheetnames]
-1=e7d9badb-6e41-4dbc-bb0f-1e6fc0ca445e:
+1=f0f4d41f-9ee9-42a4-9e8c-00998d4397fc:
 2=cff1d039-7316-4f26-bee2-2abf5e357325:Power
 3=d750dbfe-25cb-4657-ae33-613f4e77de41:USB-I/O
 4=5486a37f-78d9-4bc1-949b-5cd6991474d4:FPGA-Config
@@ -57,7 +57,7 @@ version=1
 version=1
 PageLayoutDescrFile=${RD_ROOT}/kicad-libraries/page-layout-pcbnew.kicad_wks
 LastNetListRead=
-LastSTEPExportPath=r0/accelerator-devkit-proto-0-baseboard.step
+LastSTEPExportPath=r1/accelerator-devkit-proto-0-baseboard.step
 LastIDFExportPath=
 LastVRMLExportPath=
 LastSpecctraDSNExportPath=
