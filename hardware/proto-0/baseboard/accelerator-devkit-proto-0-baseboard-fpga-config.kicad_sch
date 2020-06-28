@@ -6,7 +6,7 @@
 
   (title_block
     (title "FPGA Config")
-    (rev "r0")
+    (rev "r0A")
   )
 
   (lib_symbols

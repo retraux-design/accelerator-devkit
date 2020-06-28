@@ -1,4 +1,4 @@
-update=6/28/2020 2:55:35 PM
+update=6/28/2020 3:15:30 PM
 version=1
 last_client=kicad
 [general]
@@ -36,23 +36,14 @@ ERC_CheckBusDriverConflicts=1
 ERC_CheckBusEntryConflicts=1
 ERC_CheckBusToBusConflicts=1
 ERC_CheckBusToNetConflicts=1
-[PcbFrame]
-version=1
 [LibeditFrame]
 version=1
 [SchematicFrame]
 version=1
 [ModEditFrame]
 version=1
-[sheetnames]
-1=f0f4d41f-9ee9-42a4-9e8c-00998d4397fc:
-2=cff1d039-7316-4f26-bee2-2abf5e357325:Power
-3=d750dbfe-25cb-4657-ae33-613f4e77de41:USB-I/O
-4=5486a37f-78d9-4bc1-949b-5cd6991474d4:FPGA-Config
-5=60f65c90-53f8-4b4f-8cfb-d5447aa1c6b3:SDRAM
-6=68d7eb73-c832-4e03-ae86-4586210b2a32:FPGA-IO
-7=07a26876-5a99-476c-b8a2-c259b2a4e4ae:HDMI-IO
-8=fc7ed726-8436-40a3-b140-f25d1e6847bc:Display-IO
+[PcbFrame]
+version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=${RD_ROOT}/kicad-libraries/page-layout-pcbnew.kicad_wks
@@ -476,3 +467,12 @@ uViaDrill=0.1
 dPairWidth=0.1016
 dPairGap=0.127
 dPairViaGap=0.25
+[sheetnames]
+1=f0f4d41f-9ee9-42a4-9e8c-00998d4397fc:
+2=cff1d039-7316-4f26-bee2-2abf5e357325:Power
+3=d750dbfe-25cb-4657-ae33-613f4e77de41:USB-I/O
+4=5486a37f-78d9-4bc1-949b-5cd6991474d4:FPGA-Config
+5=60f65c90-53f8-4b4f-8cfb-d5447aa1c6b3:SDRAM
+6=68d7eb73-c832-4e03-ae86-4586210b2a32:FPGA-IO
+7=07a26876-5a99-476c-b8a2-c259b2a4e4ae:HDMI-IO
+8=fc7ed726-8436-40a3-b140-f25d1e6847bc:Display-IO

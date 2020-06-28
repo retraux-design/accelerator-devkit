@@ -6,7 +6,7 @@
 
   (title_block
     (title "USB I/O")
-    (rev "r0")
+    (rev "r0A")
   )
 
   (lib_symbols
